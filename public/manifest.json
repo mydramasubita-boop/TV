@@ -1,0 +1,39 @@
+{
+  "background_color": "#000000",
+  "display": "standalone",
+  "name": "My Drama Life",
+  "short_name": "MyDramaLife",
+  "description": "My Drama Life TV - Korean & Asian Drama streaming app",
+  "orientation": "landscape",
+  "scope": "/",
+  "start_url": "/",
+  "theme_color": "#FF1493",
+  "icons": [
+    {
+      "src": "/icona_app_mobile.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icona_app_mobile.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icona_app_tv.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/banner_firetv.png",
+      "sizes": "320x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["entertainment"],
+  "prefer_related_applications": false
+}
